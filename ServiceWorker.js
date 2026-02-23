@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-ImaginarySpace2-0.1.0";
 const contentToCache = [
-    "Build/ImaginarySpace2.loader.js",
-    "Build/ImaginarySpace2.framework.js.unityweb",
-    "Build/ImaginarySpace2.data.unityweb",
-    "Build/ImaginarySpace2.wasm.unityweb",
+    "Build/ImaginarySpace2Web.loader.js",
+    "Build/ImaginarySpace2Web.framework.js.unityweb",
+    "Build/ImaginarySpace2Web.data.unityweb",
+    "Build/ImaginarySpace2Web.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
